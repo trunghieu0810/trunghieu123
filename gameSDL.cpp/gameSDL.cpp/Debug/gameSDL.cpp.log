@@ -1,0 +1,30 @@
+﻿Build started 4/26/2021 1:09:19 AM.
+     1>Project "F:\VS 2012\gameSDL.cpp\gameSDL.cpp\gameSDL.cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AmoObject.cpp PlayerPower.cpp TextObject.cpp ThreatsObject.cpp baseObject.cpp common_Function.cpp main.cpp mainobject.cpp
+         Skipping... (no relevant changes detected)
+         mainobject.cpp
+         main.cpp
+         common_Function.cpp
+         baseObject.cpp
+         ThreatsObject.cpp
+         TextObject.cpp
+         PlayerPower.cpp
+         AmoObject.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS 2012\gameSDL.cpp\Debug\gameSDL.cpp.exe" /INCREMENTAL /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_mixer.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VS 2012\gameSDL.cpp\Debug\gameSDL.cpp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS 2012\gameSDL.cpp\Debug\gameSDL.cpp.lib" /MACHINE:X86 Debug\AmoObject.obj
+         Debug\baseObject.obj
+         Debug\common_Function.obj
+         Debug\ExplosionObject.obj
+         Debug\main.obj
+         Debug\mainobject.obj
+         Debug\PlayerPower.obj
+         Debug\ShowMenu.obj
+         Debug\TextObject.obj
+         Debug\ThreatsObject.obj
+         gameSDL.cpp.vcxproj -> F:\VS 2012\gameSDL.cpp\Debug\gameSDL.cpp.exe
+     1>Done Building Project "F:\VS 2012\gameSDL.cpp\gameSDL.cpp\gameSDL.cpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
